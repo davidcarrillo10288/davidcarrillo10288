@@ -3,23 +3,24 @@
 Hello there! I'm passionate about the fascinating world of data science and artificial intelligence. Currently pursuing a master's degree in artificial intelligence, I am exploring various libraries and technologies to enhance my skills.
 
 ## Technical Stack
-Languages: Python, SQL
-Databases: PostgreSQL
-Visualization Tools: Tableau, PowerBI
-Version Control: Git, GitHub
-IDE: VSCode
+* Languages: Python, SQL
+* Databases: PostgreSQL
+* Visualization Tools: Tableau, PowerBI
+* Version Control: Git, GitHub
+* IDE: VSCode
 
 ## Key Libraries
 I frequently work with the following Python libraries:
 
-Numpy
-Pandas
-Matplotlib
-Scikit-learn
-Scipy
-Seaborn
-Moviepy
-SpeechRecognition
+* Numpy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Scipy
+* Seaborn
+* Moviepy
+* SpeechRecognition
+* OpenCV
 ...
 
 ## Professional Snapshot
