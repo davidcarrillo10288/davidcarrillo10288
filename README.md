@@ -1,4 +1,7 @@
 # Welcome to My GitHub Profile! 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fibra+Cade&weight=500&size=41&pause=1000&color=29F719&background=E3FF2700&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist" alt="Typing SVG" /></a>
+
 ## About Me
 Hello there! I'm passionate about the fascinating world of data science and artificial intelligence. Currently pursuing a master's degree in artificial intelligence, I am exploring various libraries and technologies to enhance my skills.
 
