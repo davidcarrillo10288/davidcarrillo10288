@@ -7,6 +7,7 @@
 Hello there! I'm passionate about the fascinating world of data science and artificial intelligence. Currently pursuing a master's degree in artificial intelligence, I am exploring various libraries and technologies to enhance my skills.
 
 ## Technical Stack
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture>
 * Languages: Python, SQL
 * Databases: PostgreSQL
 * Visualization Tools: Tableau, PowerBI
