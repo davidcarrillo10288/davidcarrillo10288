@@ -31,6 +31,35 @@ I frequently work with the following Python libraries:
 * OpenCV
 ...
 
+<table>
+<tr>
+<td width="50%">
+<h3>Credit Scoring Prediction 📚</h3>
+<div>
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/548c04a6-4329-43c8-834b-b80115b2515e" width="100%" alt="Curso básico android"></a>
+<p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
+
+En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones fundamentadas..</p>
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                                            
+</td>
+<td width="50%">
+<h3>Covid19 Analysis</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/ca414ef5-73b7-4725-a264-67234a2ec19c" width="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
+
+Una entidad gubernamental responsable de la gestión de la salud en México-Perú-Colombia enfrentan el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia..</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<tr>
+<td width="50%">    
+</table> 
+
 ## Professional Snapshot
 🔭 I am currently engaged in freelancing projects, applying my data science and machine learning expertise.
 
