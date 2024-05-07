@@ -31,6 +31,8 @@ I frequently work with the following Python libraries:
 * OpenCV
 ...
 
+## Data Science Projects 🚀
+
 <table>
 <tr>
 <td width="50%">
