@@ -38,7 +38,8 @@ I frequently work with the following Python libraries:
 <td width="50%">
 <h3>Credit Scoring Prediction 📚</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction/assets/104275645/548c04a6-4329-43c8-834b-b80115b2515e" width="100%" alt="Curso básico android"></a>
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="![image](https://github.com/davidcarrillo10288/davidcarrillo10288/assets/104275645/f7ef2155-b1ed-4b36-a86e-af08cb4a4ad7)
+" width="100%" alt="Curso básico android"></a>
 <p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
 
 En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones fundamentadas..</p>
@@ -63,7 +64,8 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 
 <h3>Consumer Spending Prediction</h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/ca414ef5-73b7-4725-a264-67234a2ec19c" width="100%" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="![image](https://github.com/davidcarrillo10288/davidcarrillo10288/assets/104275645/ad946b76-b35d-4f20-b8c4-597593369a55)
+="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
 </div>                                                             
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
