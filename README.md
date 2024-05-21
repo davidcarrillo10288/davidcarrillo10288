@@ -60,7 +60,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<td>
+<tr>
  
 <td width="50%">
 <h3>COSTUMER SPENDIND PREDICTION</h3>
@@ -72,7 +72,18 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <tr>
+ 
 <td width="50%">
+<h3>STORE SALES ANALYSIS</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/store%20sales%20analysis.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. Como científico de datos, hemos sido convocados para analizar estos datos y ofrecer insights que guíen sus decisiones. Hemos utilizado SQLite.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<tr>
+ 
 </table> 
 
 ## Professional Snapshot
