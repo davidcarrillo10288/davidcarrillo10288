@@ -36,7 +36,7 @@ I frequently work with the following Python libraries:
 <table>
 <tr>
 <td width="50%">
-<h3>Credit Scoring Prediction 📚</h3>
+<h3>CREDIT SCORING PREDICTION</h3>
 <div>
 <a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/credit%20scoring.jpeg" width="100%" alt="Curso básico android"></a>
 <p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
@@ -46,10 +46,10 @@ En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido p
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                            
-
-</td>
+</tr>
 <td width="50%">
-<h3>Covid19 Analysis</h3>
+ 
+<h3>COVID 19 ANALYSIS</h3>
 <div>                                       
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
@@ -62,7 +62,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <tr>
 <td width="50%">
 
-<h3>Consumer Spending Prediction</h3>
+<h3>COSTUMER SPENDIND PREDICTION</h3>
 <div>                                       
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/consumer%20spending.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
