@@ -38,7 +38,7 @@ I frequently work with the following Python libraries:
 <td width="50%">
 <h3>Credit Scoring Prediction 📚</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/davidcarrillo10288/assets/104275645/f7ef2155-b1ed-4b36-a86e-af08cb4a4ad7" width="100%" alt="Curso básico android"></a>
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="!https://github.com/davidcarrillo10288/davidcarrillo10288/assets/104275645/00fe2a5d-c578-42f7-8f96-01ca45c923bf" width="100%" alt="Curso básico android"></a>
 <p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
 
 En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones fundamentadas..</p>
@@ -50,7 +50,8 @@ En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido p
 <td width="50%">
 <h3>Covid19 Analysis</h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Covid-19-analysis/assets/104275645/ca414ef5-73b7-4725-a264-67234a2ec19c" width="100%" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="!https://github.com/davidcarrillo10288/davidcarrillo10288/assets/104275645/64a880f5-15c5-4911-96d6-85503b4b3df9
+" width="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
 
 Una entidad gubernamental responsable de la gestión de la salud en México-Perú-Colombia enfrentan el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia..</p>
