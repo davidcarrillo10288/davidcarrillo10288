@@ -46,7 +46,7 @@ En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido p
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                            
-<tr>
+
 </td>
 <td width="50%">
 <h3>Covid19 Analysis</h3>
