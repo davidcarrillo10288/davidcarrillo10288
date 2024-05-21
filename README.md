@@ -67,7 +67,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <td width="50%">
 <h3>COSTUMER SPENDIND PREDICTION</h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/consumer%20spending.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/consumer%20spending.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
 </div>                                                             
 <a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank">
@@ -119,6 +119,9 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                            
+</td>
+
+<td width="50%">
 </td>
 </tr>
  
