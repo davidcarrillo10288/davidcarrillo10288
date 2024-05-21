@@ -70,7 +70,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/consumer%20spending.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web.</p>
 </div>                                                             
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<a href="https://github.com/davidcarrillo10288/CUSTOMER-SPENDING-PREDICTION" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
@@ -81,7 +81,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/store%20sales%20analysis.jpeg" width=="100%" alt="Curso básico android"></a>
 <p align="justify">Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. Como científico de datos, hemos sido convocados para analizar estos datos y ofrecer insights que guíen sus decisiones. Hemos utilizado SQLite.</p>
 </div>                                                             
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <td>
@@ -94,7 +94,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/financial%20fraud%20detection.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">La urgencia por detectar fraudes en transacciones móviles de dinero ha llevado a una empresa del segmento Fintech a buscar soluciones innovadoras. Como científicos de datos hemos sido convocados para desarrollar un modelo de machine learning que pueda distinguir de manera precisa entre transacciones legítimas y fraudulentas.</p>
 </div>                                                             
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<a href="https://github.com/davidcarrillo10288/Financial-Fraud-Detection" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
