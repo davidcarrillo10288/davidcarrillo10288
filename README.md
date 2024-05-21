@@ -78,7 +78,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <td width="50%">
 <h3>STORE SALES ANALYSIS</h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/store%20sales%20analysis.jpeg" width=="100%" alt="Curso básico android"></a>
+<a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/store%20sales%20analysis.jpeg" width=="100%" alt="Curso básico android"></a>
 <p align="justify">Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. Como científico de datos, hemos sido convocados para analizar estos datos y ofrecer insights que guíen sus decisiones. Hemos utilizado SQLite.</p>
 </div>                                                             
 <a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank">
@@ -104,6 +104,26 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </tr>
 
 </table> 
+
+
+## Machine Learning Projects 🚀
+
+<table>
+<tr>
+<td width="50%">
+<h3>YOUTUBE VIDEO TRANSCRIPT</h3>
+<div>
+<a href="https://github.com/davidcarrillo10288/Transcripcion-cualquier-video-de-youtube" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/youtube%20video%20transcript.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Este proyecto lo realicé con la finalidad de poder transcribir cualquier video de Youtube y tenerlo en formato de texto. La finalidad de este proyecto es poder colocar las transcripciones en cualquier video de Youtube.</p>
+<a href="https://github.com/davidcarrillo10288/Transcripcion-cualquier-video-de-youtube" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                            
+</td>
+</tr>
+ 
+</table> 
+
 
 ## Professional Snapshot
 🔭 I am currently engaged in freelancing projects, applying my data science and machine learning expertise.
