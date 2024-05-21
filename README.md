@@ -106,7 +106,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </table> 
 
 
-## Machine Learning Projects 🚀
+## Inteligencia Artificial Projects 🚀
 
 <table>
 <tr>
