@@ -35,6 +35,7 @@ I frequently work with the following Python libraries:
 
 <table>
 <tr>
+ 
 <td width="50%">
 <h3>CREDIT SCORING PREDICTION</h3>
 <div>
@@ -46,9 +47,9 @@ En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido p
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                            
-</tr>
+</td>
+
 <td width="50%">
- 
 <h3>COVID 19 ANALYSIS</h3>
 <div>                                       
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
