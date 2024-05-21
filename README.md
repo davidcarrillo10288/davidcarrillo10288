@@ -60,9 +60,9 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<tr>
+<td>
+ 
 <td width="50%">
-
 <h3>COSTUMER SPENDIND PREDICTION</h3>
 <div>                                       
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/consumer%20spending.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
