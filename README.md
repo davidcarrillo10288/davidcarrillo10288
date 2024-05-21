@@ -88,7 +88,21 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </tr>
 
 <tr>
- 
+<td width="50%">
+<h3>FINANCIAL FRAUD DETECTION</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/financial%20fraud%20detection.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">La urgencia por detectar fraudes en transacciones móviles de dinero ha llevado a una empresa del segmento Fintech a buscar soluciones innovadoras. Como científicos de datos hemos sido convocados para desarrollar un modelo de machine learning que pueda distinguir de manera precisa entre transacciones legítimas y fraudulentas.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+
+<td width="50%">
+</td>
+</tr>
+
 </table> 
 
 ## Professional Snapshot
