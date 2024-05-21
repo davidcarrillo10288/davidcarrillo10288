@@ -38,7 +38,8 @@ I frequently work with the following Python libraries:
 <td width="50%">
 <h3>Credit Scoring Prediction 📚</h3>
 <div>
-<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="!https://github.com/davidcarrillo10288/davidcarrillo10288/assets/104275645/00fe2a5d-c578-42f7-8f96-01ca45c923bf" width="100%" alt="Curso básico android"></a>
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="![image](https://github.com/davidcarrillo10288/davidcarrillo10288/assets/104275645/4937f39f-dc07-4745-9e9d-5357d0f98f6c)
+" width="100%" alt="Curso básico android"></a>
 <p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
 
 En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones fundamentadas..</p>
