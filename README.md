@@ -31,7 +31,7 @@ I frequently work with the following Python libraries:
 * OpenCV
 ...
 
-## Data Science Projects 🚀
+## DATA SCIENCE PROJECTS 🚀
 
 <table>
 <tr>
@@ -106,7 +106,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </table> 
 
 
-## Inteligencia Artificial Projects 🚀
+## ARTIFICIAL INTELLIGENCE PROJECTS 🚀
 
 <table>
 <tr>
