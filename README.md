@@ -45,7 +45,8 @@ En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido p
 <a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</div>                                                            
+</div>                                            
+<tr>
 </td>
 <td width="50%">
 <h3>Covid19 Analysis</h3>
