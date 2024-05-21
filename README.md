@@ -51,7 +51,7 @@ En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido p
 <td width="50%">
 <h3>Covid19 Analysis</h3>
 <div>                                       
-<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="(https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg)" width="100%" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
 <p align="justify">Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
 
 Una entidad gubernamental responsable de la gestión de la salud en México-Perú-Colombia enfrentan el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia..</p>
