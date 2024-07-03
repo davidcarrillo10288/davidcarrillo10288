@@ -85,7 +85,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 <a href="https://github.com/davidcarrillo10288/Store_Sales_Analysis" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<td>
+</td>
 </tr>
 
 <tr>
@@ -101,6 +101,14 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </td>
 
 <td width="50%">
+<h3>MOVIE ANALYSIS</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Movie_analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/movie_analysis.jpeg" width=="100%" alt="Curso básico android"></a>
+<p align="justify">Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica. Como científico de datos especializado en la industria del entretenimiento, has sido convocado para analizar estos datos y ofrecer insights que guíen sus decisiones.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Movie_analysis" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </td>
 </tr>
 
