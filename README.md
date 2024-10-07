@@ -6,15 +6,15 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 Hello there! I'm passionate about the fascinating world of data science and artificial intelligence. Currently pursuing a master's degree in artificial intelligence, I am exploring various libraries and technologies to enhance my skills.
 
-## 💻 Technical Stack
+## 💻 __Technical Stack__
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Data Analysis: Python (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn, scipy, geopandas), SQL, MySQL, PostgreSQL, GitHub.
-- **Artificial Intelligence: OpenCV, TensorFlow, Keras, OCR, NLTK, RNN, CNN, Anaconda.
-- **Business Intelligence: Power BI, Tableau
-- ** Industry Tools: DFG, Wellsight Express, Microsoft Office.
+- **Data Analysis:** Python (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn, scipy, geopandas), SQL, MySQL, PostgreSQL, GitHub.
+- **Artificial Intelligence:** OpenCV, TensorFlow, Keras, OCR, NLTK, RNN, CNN, Anaconda.
+- **Business Intelligence:** Power BI, Tableau
+- ** Industry Tools:** DFG, Wellsight Express, Microsoft Office.
 
 * Languages: Python, SQL
 * Databases: PostgreSQL
