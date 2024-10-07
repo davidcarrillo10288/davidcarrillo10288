@@ -112,6 +112,23 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </td>
 </tr>
 
+<tr>
+<td width="50%">
+<h3>TELECOM CHURN</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Telecom_Churn" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/TELECOM_CHURN.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">Una empresa de telecomunicaciones desea mejorar la retención de sus clientes, identificando aquellos que tienen más posibilidades de abandonar el servicio (Churn). Este proyecto tiene como objetivo limpiar y preparar un conjunto de datos para el entrenamiento de un modelo de Churn, aplicando diversas técnicas de ingeniería de características y selección de variables para mejorar la precisión y capacidad predictiva del modelo.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Telecom_Churn" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+
+<td width="50%">
+</td>
+</tr>
+
+
 </table> 
 
 
