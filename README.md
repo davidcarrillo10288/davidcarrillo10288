@@ -16,7 +16,7 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 - **Business Intelligence:** Power BI, Tableau
 - **Industry Tools:** DFG, Wellsight Express, Microsoft Office.
 
-## 🚀 [SOFT SKILLS](https://github.com/pandao/editor.md "Heading link")
+## 🚀 [Soft Skills](https://github.com/pandao/editor.md "Heading link")
 
 - **Problem-Solving**: Analytical Reasoning, Initiative
 - **Communication**: Social and Communication Skills, Teamwork
