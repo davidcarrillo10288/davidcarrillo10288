@@ -11,6 +11,11 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+- **Data Analysis: Python (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn, scipy, geopandas), SQL, MySQL, PostgreSQL, GitHub.
+- **Artificial Intelligence: OpenCV, TensorFlow, Keras, OCR, NLTK, RNN, CNN, Anaconda.
+- **Business Intelligence: Power BI, Tableau
+- ** Industry Tools: DFG, Wellsight Express, Microsoft Office.
+
 * Languages: Python, SQL
 * Databases: PostgreSQL
 * Visualization Tools: Tableau, PowerBI
