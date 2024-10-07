@@ -125,6 +125,14 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </td>
 
 <td width="50%">
+<h3>MOVIE RECOMMENDER SYSTEM</h3>
+<div>                                       
+<a href="https://github.com/davidcarrillo10288/Movie_recommender_system" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/movie_recommender_system.jpeg" width=="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">Una reconocida plataforma de Streaming busca mejorar la experiencia de sus usuarios mediante la creación de un recomendador de películas virtual. Para lograrlo, hemos analizado y diseñado varios métodos de recomendación, evaluando cuál ofrece el mejor rendimiento. Entre las técnicas implementadas están el recomendador no personalizado, el recomendador basado en contenido, y el recomendador colaborativo, con el objetivo de ofrecer recomendaciones personalizadas que optimicen la interacción del usuario con la plataforma.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Movie_recommender_system" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </td>
 </tr>
 
