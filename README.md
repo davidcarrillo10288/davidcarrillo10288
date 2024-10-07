@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fibra+Cade&weight=500&size=41&pause=1000&color=29F719&background=E3FF2700&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist" alt="Typing SVG" /></a>
 
-## About Me
+## [About Me](https://github.com/pandao/editor.md "Heading link")
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 Hello there! I'm passionate about the fascinating world of data science and artificial intelligence. Currently pursuing a master's degree in artificial intelligence, I am exploring various libraries and technologies to enhance my skills.
 
@@ -12,26 +12,19 @@ Hello there! I'm passionate about the fascinating world of data science and arti
  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Data Analysis:** Python (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn, scipy, geopandas), SQL, MySQL, PostgreSQL, GitHub, VSCode.
-- **Artificial Intelligence:** OpenCV, TensorFlow, Keras, OCR, NLTK, RNN, CNN, Anaconda.
+- **Artificial Intelligence:** OpenCV, TensorFlow, Keras, OCR, NLTK, RNN, CNN, LLM, Anaconda.
 - **Business Intelligence:** Power BI, Tableau
 - **Industry Tools:** DFG, Wellsight Express, Microsoft Office.
 
-## Key Libraries
-I frequently work with the following Python libraries:
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture>
-* Numpy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Scipy
-* Seaborn
-* Moviepy
-* SpeechRecognition
-* OpenCV
-...
+## 🚀 [SOFT SKILLS](https://github.com/pandao/editor.md "Heading link")
+
+- **Problem-Solving**: Analytical Reasoning, Initiative
+- **Communication**: Social and Communication Skills, Teamwork
+- **Personal Development**: Continuous Learning, Adaptability, Creativity
+- **Leadership**: Organization, Leadership, Proactivity, Attention to Detail, Curiosity
 
 
-## DATA SCIENCE PROJECTS 🚀
+## [DATA SCIENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
 
 <table>
 <tr>
@@ -141,7 +134,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 
 
 
-## ARTIFICIAL INTELLIGENCE PROJECTS 🚀
+## [ARTIFICIAL INTELLIGENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
 
 <table>
 <tr>
