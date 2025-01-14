@@ -150,7 +150,6 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </td>
 
 <td width="50%">
-<td width="50%">
 <h3>PLATE DETECTION WEB APP</h3>
 <div>
 <a href="https://github.com/davidcarrillo10288/plate-recognition" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/plate-detection.jpeg" width="100%" alt="Curso básico android"></a>
