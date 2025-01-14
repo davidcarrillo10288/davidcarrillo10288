@@ -150,6 +150,15 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </td>
 
 <td width="50%">
+<td width="50%">
+<h3>PLATE DETECTION WEB APP</h3>
+<div>
+<a href="https://github.com/davidcarrillo10288/plate-recognition" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/plate-detection.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Este proyecto consiste en detectar placas de vehículos en imágenes, combinando herramientas de etiquetado, entrenamiento de modelos de detección de objetos y un frontend interactivo desarrollado con Streamlit.</p>
+<a href="https://github.com/davidcarrillo10288/plate-recognition" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>  
 </td>
 </tr>
  
