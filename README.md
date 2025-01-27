@@ -160,6 +160,22 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </div>  
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+<h3>SENTIMENT ANALYSIS</h3>
+<div>
+<a href="https://github.com/davidcarrillo10288/Sentiment_analysis_ia" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/sentiment_analysis_image.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">El objetivo de este proyecto es realizar un análisis de sentimientos en los comentarios, clasificándolos en categorías de positivos o negativos, para comprender mejor las emociones y opiniones expresadas en los textos.</p>
+<a href="https://github.com/davidcarrillo10288/Sentiment_analysis_ia" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                            
+</td>
+
+<td width="50%">
+</td>
+</tr>
  
 </table> 
 
