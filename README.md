@@ -174,6 +174,14 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </td>
 
 <td width="50%">
+<h3>CHATBOT ZERBERUS</h3>
+<div>
+<a href="https://github.com/davidcarrillo10288/chatbot_gemini" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/chatbot_gemini.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Zerberus es un chatbot interactivo desarrollado con Streamlit y la API de Gemini. Su principal característica es la capacidad de mantener memoria y contexto en la conversación, permitiendo una experiencia más fluida e intuitiva para el usuario.</p>
+<a href="https://github.com/davidcarrillo10288/chatbot_gemini" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                    
 </td>
 </tr>
  
