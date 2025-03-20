@@ -25,10 +25,10 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 
 
 ## [DATA SCIENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
+#### Desarrollo de proyectos en ciencia de datos con enfoque en limpieza y transformación, análisis exploratorio, visualización y modelado predictivo. Aplicación de diversas técnicas de aprendizaje supervisado y no supervisado para resolver problemas en distintos dominios, desde predicción y segmentación hasta detección de patrones y optimización.
 
 <table>
 <tr>
- 
 <td width="50%">
 <h3>CREDIT SCORING PREDICTION</h3>
 <div>
@@ -128,7 +128,6 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </td>
 </tr>
 
-
 </table> 
 
 
@@ -136,7 +135,7 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 
 ## [ARTIFICIAL INTELLIGENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
 
-### Explorando el potencial de la IA en visión por computadora, NLP, LLMs y deep learning. Desarrollo de modelos y aplicaciones con Gemini API, OpenAI, Hugging Face, TensorFlow, PyTorch y más. 🚀
+#### Explorando el potencial de la IA en visión por computadora, NLP, LLMs y deep learning. Desarrollo de modelos y aplicaciones con Gemini API, OpenAI, Hugging Face, TensorFlow, PyTorch y más. 🚀
 
 <table>
 <tr>
