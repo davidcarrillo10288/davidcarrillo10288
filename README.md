@@ -184,7 +184,23 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 </div>                    
 </td>
 </tr>
- 
+
+<tr>
+<td width="50%">
+<h3>ML CLASSIFICATION TWEETS</h3>
+<div>
+<a href="https://github.com/davidcarrillo10288/ML_Classification_Tweets" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/ML_classification_tweets.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">En este proyecto se analizó los sentimientos en tweets, identificando si los mensajes son positivos o negativos. Se utilizó un conjunto de datos de 1,600,000 tweets preprocesados, se generó diversas características que se utilizaron para entrenar un modelo de clasificación.</p>
+<a href="https://github.com/davidcarrillo10288/ML_Classification_Tweets" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>                                            
+</td>
+
+<td width="50%">           
+</td>
+</tr>
+
 </table> 
 
 
