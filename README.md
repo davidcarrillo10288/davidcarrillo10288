@@ -25,7 +25,7 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 
 
 ## [DATA SCIENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
-#### Development of data science projects focused on data cleaning and transformation, exploratory analysis, visualization, and predictive modeling. Application of various supervised and unsupervised learning techniques to solve problems across different domains, from prediction and segmentation to pattern detection and optimization. 🚀
+### Development of data science projects focused on data cleaning and transformation, exploratory analysis, visualization, and predictive modeling. Application of various supervised and unsupervised learning techniques to solve problems across different domains, from prediction and segmentation to pattern detection and optimization. 🚀
 
 <table>
 <tr>
@@ -131,7 +131,7 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 
 ## [ARTIFICIAL INTELLIGENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
 
-#### Exploring the potential of AI in computer vision, NLP, LLMs, and deep learning. Developing models and applications with Gemini API, OpenAI, Hugging Face, TensorFlow, PyTorch, and more. 🚀
+### Exploring the potential of AI in computer vision, NLP, LLMs, and deep learning. Developing models and applications with Gemini API, OpenAI, Hugging Face, TensorFlow, PyTorch, and more. 🚀
 
 <table>
 <tr>
