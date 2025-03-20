@@ -33,9 +33,7 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 <h3>CREDIT SCORING PREDICTION</h3>
 <div>
 <a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/credit%20scoring.jpeg" width="100%" alt="Curso básico android"></a>
-<p align="justify">Presentaremos los resultados y las conclusiones de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana. Como científicos de datos, hemos sido desafiados con la tarea de construir un modelo de Machine Learning que sea preciso y confiable para evaluar la probabilidad de obtener un buen cliente, aquel que demuestra ser un pagador confiable.
-
-En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido proporcionar a la institución herramientas innovadoras y predictivas para tomar decisiones fundamentadas..</p>
+<p align="justify">Presentaremos los resultados de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana, donde desarrollamos un modelo de Machine Learning preciso y confiable para identificar clientes con buen historial de pago. Nuestro objetivo es proporcionar herramientas predictivas que optimicen la toma de decisiones en la gestión de riesgos.</p>
 <a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -46,9 +44,7 @@ En un mundo donde la gestión de riesgos es esencial, nuestro objetivo ha sido p
 <h3>COVID 19 ANALYSIS</h3>
 <div>                                       
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
-<p align="justify">Bienvenido a este proyecto, donde realizaremos un análisis sobre la pandemia del COVID-19. En este repositorio, se explorará y visualizará datos relacionados con la pandemia de COVID-19 con el objetivo de comprender mejor su impacto a nivel mundial.
-
-Una entidad gubernamental responsable de la gestión de la salud en México-Perú-Colombia enfrentan el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia..</p>
+<p align="justify">Bienvenido a este proyecto, donde exploramos y visualizamos datos sobre la pandemia del COVID-19 para analizar su impacto global. Nos enfocamos en ayudar a entidades gubernamentales de México, Perú y Colombia a comprender la propagación del virus y mejorar la toma de decisiones en su gestión, proporcionando análisis claros y herramientas predictivas.</p>
 </div>                                                             
 <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
