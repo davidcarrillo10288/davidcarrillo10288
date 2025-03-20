@@ -136,6 +136,8 @@ Una entidad gubernamental responsable de la gestión de la salud en México-Per�
 
 ## [ARTIFICIAL INTELLIGENCE PROJECTS](https://github.com/pandao/editor.md "Heading link") 🚀
 
+### Explorando el potencial de la IA en visión por computadora, NLP, LLMs y deep learning. Desarrollo de modelos y aplicaciones con Gemini API, OpenAI, Hugging Face, TensorFlow, PyTorch y más. 🚀
+
 <table>
 <tr>
 <td width="50%">
