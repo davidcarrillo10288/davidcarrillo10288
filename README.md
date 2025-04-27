@@ -194,7 +194,14 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 </div>                                            
 </td>
 
-<td width="50%">           
+<td width="50%">    
+<h3>IA POWERED CONTENT GENERATOR</h3>
+<div>
+<a href="https://github.com/davidcarrillo10288/IA_Powered_Content_Generator" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/IA_Powered_Content_Generator.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Este proyecto es una herramienta de IA para generar y mejorar contenido en plataformas como Instagram y TikTok, adaptado a audiencias, tonos e idiomas. Utiliza modelos avanzados de lenguaje para crear contenido dinámico basado en información de productos de sitios de comercio electrónico.</p>
+<a href="https://github.com/davidcarrillo10288/IA_Powered_Content_Generator" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </td>
 </tr>
 
