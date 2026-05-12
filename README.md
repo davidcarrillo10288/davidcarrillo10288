@@ -207,6 +207,35 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 
 </table> 
 
+## [ENERGY - OIL AND GAS DATA SCIENCE](https://github.com/pandao/editor.md "Heading link") 🚀
+
+### Data-driven solutions and predictive analytics tailored for the Oil & Gas industry and the broader energy sector. This section features machine learning applications for upstream/downstream operations, reservoir characterization, and production optimization. 🚀
+
+<table>
+<tr>
+<td width="50%">
+<h3>ROP PREDICTION - MIP 3H WELL</h3>
+<div>
+<!-- <a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/credit%20scoring.jpeg" width="100%" alt="Curso básico android"></a>
+<p align="justify">Presentaremos los resultados de nuestro proyecto de análisis de riesgo crediticio para una institución financiera alemana, donde desarrollamos un modelo de Machine Learning preciso y confiable para identificar clientes con buen historial de pago. Nuestro objetivo es proporcionar herramientas predictivas que optimicen la toma de decisiones en la gestión de riesgos.</p>
+<a href="https://github.com/davidcarrillo10288/Credit-Scoring-Prediction" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white">
+</a> -->
+</div>                                            
+</td>
+
+<td width="50%">
+<h3></h3>
+<div>                                       
+<!-- <a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank"><img src="https://github.com/davidcarrillo10288/Hyperblog/blob/master/imagenes/covid19.jpeg" width="100%" alt="Curso arquitectura MVVM"></a>
+<p align="justify">Bienvenido a este proyecto, donde exploramos y visualizamos datos sobre la pandemia del COVID-19 para analizar su impacto global. Nos enfocamos en ayudar a entidades gubernamentales de México, Perú y Colombia a comprender la propagación del virus y mejorar la toma de decisiones en su gestión, proporcionando análisis claros y herramientas predictivas.</p>
+</div>                                                             
+<a href="https://github.com/davidcarrillo10288/Covid-19-analysis" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white">
+</a> -->
+</td>
+</tr>
+
 
 ## Professional Snapshot
 🔭 I am currently engaged in freelancing projects, applying my data science and machine learning expertise.
