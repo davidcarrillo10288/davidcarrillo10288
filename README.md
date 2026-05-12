@@ -236,6 +236,7 @@ Hello there! I'm passionate about the fascinating world of data science and arti
 </td>
 </tr>
 
+</table> 
 
 ## Professional Snapshot
 🔭 I am currently engaged in freelancing projects, applying my data science and machine learning expertise.
